@@ -1,16 +1,104 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aswathy Babu</h1>
+<h3 align="center">Backend Developer | API Engineer | Full-Stack Enthusiast</h3>
 
-<!--
-**aswathy-8943/aswathy-8943** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📌 About Me  
+- 💼 Backend Developer with **3+ years of hands-on experience**  
+- 🛠️ Strong in **Web Services (REST & SOAP)**, backend logic, and enterprise systems  
+- 🔗 Worked with **XML, WSDL, API integrations, PL/SQL, Stored Procedures**  
+- 🧩 Experience in **ASP.NET / C#** and backend API development  
+- 🍎 Exposure to **Swift & SwiftUI** for iOS applications  
+- 🎨 Frontend capabilities in **HTML, CSS, JavaScript, Bootstrap**  
+- 🎯 Passionate about building scalable APIs, clean architecture & full-stack solutions  
+- 🚀 Actively developing real-world projects to strengthen full-stack expertise  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack  
+
+### ⭐ Backend & Databases  
+- ASP.NET Core / C#  
+- Web API / REST  
+- SOAP Web Services (WSDL, XML)  
+- PL/SQL (Oracle)  
+- Stored Procedures, Functions, Packages  
+- MySQL  
+- Entity Framework Core  
+
+### ⭐ Frontend  
+- React.js  
+- HTML5  
+- CSS3  
+- JavaScript  
+- Bootstrap  
+
+### ⭐ Mobile  
+- Swift  
+- SwiftUI  
+
+### ⭐ Tools & Platforms  
+- Visual Studio  
+- VS Code  
+- Postman  
+- Git & GitHub  
+- Oracle SQL Developer  
+- MySQL Workbench  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aswathy-8943&show_icons=true&theme=radical" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswathy-8943&theme=radical" alt="streak" />
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+### 🔹 Inventory Management API  
+🛠️ ASP.NET Core | EF Core | MySQL  
+✔ REST API Architecture  
+✔ CRUD Operations  
+✔ DTOs & Validation  
+✔ Clean and maintainable structure  
+
+### 🔹 React Frontend  
+🎨 A clean React UI for managing inventory  
+✔ Component-based architecture  
+✔ API Integration with Axios  
+✔ Responsive UI with Bootstrap  
+
+### 🔹 PL/SQL Automation Tools  
+✔ Advanced Stored Procedures  
+✔ Database utilities  
+✔ Enterprise-level data handling  
+
+---
+
+## 🔗 Connect With Me  
+<p align="left">
+<a href="https://www.linkedin.com/in/aswathy-babu" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🧭 Professional Goals  
+- Build advanced full-stack applications  
+- Deploy modern cloud-based applications  
+- Expand expertise in scalable API architecture  
+- Become a senior backend/full-stack developer  
+
+---
+
+⭐ **Thanks for visiting my profile!**  
+Always building. Always improving. 🚀
+
+
+
