@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aswathy Babu</h1>
-<h3 align="center">Backend Developer | API Engineer | Full-Stack Enthusiast</h3>
+<h3 align="center">Backend Developer | API Engineer </h3>
 
 ---
 
 ## 📌 About Me  
-- 💼 Backend Developer with **3+ years of hands-on experience**  
+- 💼 Backend Developer with **3 years of hands-on experience**  
 - 🛠️ Strong in **Web Services (REST & SOAP)**, backend logic, and enterprise systems  
-- 🔗 Worked with **XML, WSDL, API integrations, PL/SQL, Stored Procedures**  
+- 🔗 Worked with **XML, API integrations, PL/SQL, Stored Procedures**  
 - 🧩 Experience in **ASP.NET / C#** and backend API development  
-- 🍎 Exposure to **Swift & SwiftUI** for iOS applications  
-- 🎨 Frontend capabilities in **HTML, CSS, JavaScript, Bootstrap**  
-- 🎯 Passionate about building scalable APIs, clean architecture & full-stack solutions  
+- 🎯 Passionate about building scalable APIs, clean architecture & back-end solutions  
 - 🚀 Actively developing real-world projects to strengthen full-stack expertise  
 
 ---
@@ -20,27 +18,14 @@
 ### ⭐ Backend & Databases  
 - ASP.NET Core / C#  
 - Web API / REST  
-- SOAP Web Services (WSDL, XML)  
+- SOAP Web Services 
 - PL/SQL (Oracle)  
 - Stored Procedures, Functions, Packages  
 - MySQL  
 - Entity Framework Core  
 
-### ⭐ Frontend  
-- React.js  
-- HTML5  
-- CSS3  
-- JavaScript  
-- Bootstrap  
-
-### ⭐ Mobile  
-- Swift  
-- SwiftUI  
-
 ### ⭐ Tools & Platforms  
 - Visual Studio  
-- VS Code  
-- Postman  
 - Git & GitHub  
 - Oracle SQL Developer  
 - MySQL Workbench  
@@ -67,12 +52,6 @@
 ✔ DTOs & Validation  
 ✔ Clean and maintainable structure  
 
-### 🔹 React Frontend  
-🎨 A clean React UI for managing inventory  
-✔ Component-based architecture  
-✔ API Integration with Axios  
-✔ Responsive UI with Bootstrap  
-
 ### 🔹 PL/SQL Automation Tools  
 ✔ Advanced Stored Procedures  
 ✔ Database utilities  
@@ -90,7 +69,6 @@
 ---
 
 ## 🧭 Professional Goals  
-- Build advanced full-stack applications  
 - Deploy modern cloud-based applications  
 - Expand expertise in scalable API architecture  
 - Become a senior backend/full-stack developer  
