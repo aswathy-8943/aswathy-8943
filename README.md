@@ -1,82 +1,49 @@
-<h1 align="center">Hi 👋, I'm Aswathy Babu</h1>
-<h3 align="center">Backend Developer | API Engineer </h3>
+# Hi, I’m Aswathy 👋
+Data Analyst passionate about **turning raw data into actionable insights**. Experienced in SQL, Python, and Power BI, with a strong focus on **data cleaning, reporting automation, and visualization**.
 
 ---
 
-## 📌 About Me  
-- 💼 Backend Developer with **3 years of hands-on experience**  
-- 🛠️ Strong in **Web Services (REST & SOAP)**, backend logic, and enterprise systems  
-- 🔗 Worked with **XML, API integrations, PL/SQL, Stored Procedures**  
-- 🧩 Experience in **ASP.NET / C#** and backend API development  
-- 🎯 Passionate about building scalable APIs, clean architecture & back-end solutions  
-- 🚀 Actively developing real-world projects to strengthen full-stack expertise  
+## 🔹 Skills
+**Data Analysis & Visualization:** SQL (MySQL, PostgreSQL, MS SQL Server), Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, Tableau, Excel (Pivot Tables, Advanced Formulas)  
+**Data Processing & Automation:** ETL, Data Cleaning, Report Automation, Dashboard Development  
+**Business Analytics:** KPI Analysis, Trend Analysis, Performance Dashboards, Executive Reporting  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🔹 Projects
+### 1️⃣ Sales Performance Dashboard
+**Tools:** SQL, Python, Power BI  
+- Automated **daily, MTD, and YTD performance reporting** across 200+ branches  
+- Designed **region-wise, state-wise, and branch-wise analytical datasets** for executive decision-making  
+- Optimized SQL queries to **reduce report generation time by 35%**  
+- Visualized key KPIs: revenue trends, employee productivity, and loan performance  
 
-### ⭐ Backend & Databases  
-- ASP.NET Core / C#  
-- Web API / REST  
-- SOAP Web Services 
-- PL/SQL (Oracle)  
-- Stored Procedures, Functions, Packages  
-- MySQL  
-- Entity Framework Core  
+### 2️⃣ Customer Segmentation & Analysis
+**Tools:** Python (Pandas, Seaborn), Excel  
+- Conducted **customer segmentation** using RFM analysis  
+- Identified key segments driving revenue and churn  
+- Presented insights in interactive dashboards for management decisions  
 
-### ⭐ Tools & Platforms  
-- Visual Studio  
-- Git & GitHub  
-- Oracle SQL Developer  
-- MySQL Workbench  
+### 3️⃣ Interactive Power BI Dashboards
+**Tools:** Power BI, SQL  
+- Built **interactive dashboards** for operational and financial metrics  
+- Monitored KPIs in real-time, improving decision-making efficiency  
+- Integrated data from multiple sources and automated refresh cycles  
 
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aswathy-8943&show_icons=true&theme=radical" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswathy-8943&theme=radical" alt="streak" />
-</p>
-
----
-
-## 🚀 Featured Projects  
-
-### 🔹 Inventory Management API  
-🛠️ ASP.NET Core | EF Core | MySQL  
-✔ REST API Architecture  
-✔ CRUD Operations  
-✔ DTOs & Validation  
-✔ Clean and maintainable structure  
-
-### 🔹 PL/SQL Automation Tools  
-✔ Advanced Stored Procedures  
-✔ Database utilities  
-✔ Enterprise-level data handling  
+### 4️⃣ Flight Delays and Cancellations Analysis
+**Tools:** Python (Pandas, Matplotlib, Seaborn), SQL  
+- Analyzed **US domestic flights dataset** to identify patterns in delays and cancellations  
+- Calculated key metrics: **average delay by airline, airport, and month**  
+- Built visualizations to highlight **peak delay times, top delayed airlines, and seasonal trends**  
+- Provided actionable insights for improving airline operational efficiency  
 
 ---
 
-## 🔗 Connect With Me  
-<p align="left">
-<a href="https://www.linkedin.com/in/aswathy-babu-849533294/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
+## 🔹 Education
+**B.Tech in Computer Science & Engineering (CSE)**  
+- Completed a **Fingerprint Attendance System with Liveness Detection** project  
 
 ---
 
-## 🧭 Professional Goals  
-- Deploy modern cloud-based applications  
-- Expand expertise in scalable API architecture  
-- Become a senior backend/full-stack developer  
-
----
-
-⭐ **Thanks for visiting my profile!**  
-Always building. Always improving. 🚀
-
-
-
+## 🔹 Contact
+[www.linkedin.com/in/aswathy-babu24] | [aswathy.babu2412@gmail.com]
